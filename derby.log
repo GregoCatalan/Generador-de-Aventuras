@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 21 02:19:32 ART 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0168-6ed9-7927-00000a7ab768 
+on database directory C:\Users\Gregorio\Documents\NetBeansProjects\GeneradorDeAventuras\bases with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/Gregorio/Documents/NetBeansProjects/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\Gregorio\Documents\NetBeansProjects\GeneradorDeAventuras
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
